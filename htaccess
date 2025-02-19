@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^tiktok-domain-verification\.txt/$ tiktok-domain-verification.txt [R=301,L]
+</IfModule>
